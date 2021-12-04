@@ -1,0 +1,86 @@
+body
+{
+    font-family: Arial;
+}
+
+.hauptdiv
+{
+    margin: auto;
+    width: 700px;
+    height: 405px;
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+}
+
+.h1
+{
+    text-align: center;
+    color: red;
+}
+
+.dateneingabe
+{
+    width: 320px;
+    height: 210px;
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.datenausgabe
+{
+    width: 320px;
+    height: 210px;
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.datensatzsteuerung
+{
+    height: fit-content;
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+    clear: both;
+}
+
+.label
+{
+    font-size: 10.5px;
+}
+
+.textzeile
+{
+    float: right;
+    text-align: center;
+}
+
+.knopf
+{
+    text-align: center;
+    margin: 5px;
+}
+    
+.txtarea
+{
+    width: 315px;
+    height: 130px;
+    resize: none;
+    margin-right: 10px;
+}
+
+.knoepfelinks
+{
+    float: left;
+    padding: 10px;
+}
+
+.knoepferechts
+{
+    float: right;
+    padding: 10px;       
+     
+}
+
